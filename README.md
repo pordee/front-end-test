@@ -9,7 +9,7 @@ If you feel that some information is missing for the exam, open an issue in the 
 ### (*** Limit Time: There's no time limit for this test you have to manage your time and explain how much time that you spending on each part in the email with in 7 days after received this test.)
 ### !!!! No need to implement user system just mock user from input field (like simple todos app)
 The application to be developed consists of a list of tasks following the wireframe and features below.
-<p align="center">![alt text](https://github.com/pordee/front-end-test/blob/main/image.png?raw=true)</p>
+![alt text](https://github.com/pordee/front-end-test/blob/main/image.png?raw=true)
 You are to create a working prototype (mock-up) of a mini-blog application, only card UI part (the area in blue border in an image below). You can choose any framework/tools as you wish for engine, look and feel.
 
 
